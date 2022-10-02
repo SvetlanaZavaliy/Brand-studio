@@ -4,7 +4,7 @@ font-family: 'Roboto',sans-serif; */
 body {
     width: 1920px;
     height: 1080px;
-    background: url(./images/fon.jpg) no-repeat;
+    background: url('/images/fon.jpg') no-repeat;
     background-size: contain;
     padding: 50px;
     font-family: 'Noto Sans JP', sans-serif;
